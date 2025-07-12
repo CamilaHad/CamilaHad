@@ -3,10 +3,6 @@
 
 Olá! Eu sou a **Camila**, estudante de **Sistemas de Informação** com formação em **Análise e Desenvolvimento de Sistemas**, também cursei **Design Digital**. 
 
-Sou dinâmica e gosto de combinar criatividade para resolver problemas e criar soluções.
-Busco oportunidades onde possa aplicar e compartilhar minha bagagem de experiências em variados contextos.
-Ofereço uma visão alternativa na resolução de problemas. Sou curiosa e dedicada ao desenvolvimento contínuo de novas habilidades, sempre colaborando para o crescimento coletivo e valorizando a diversidade de ideias. Para mim, um bom trabalho nasce da troca de conhecimentos e da união de diferentes perspectivas.
-
 
 
 ## COMO ME ENCONTRAR:
