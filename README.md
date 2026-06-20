@@ -41,7 +41,3 @@ Olá! Eu sou a **Camila**, estudante de **Sistemas de Informação** com formaç
 
 
 
-## Thanks :)
-
-Obrigada por visitar meu perfil no GitHub!
-
